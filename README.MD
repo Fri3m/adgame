@@ -7,10 +7,10 @@ Game that are always seen in ads and short videos. There are two options, you se
 [Windows](https://media.githubusercontent.com/media/Fri3m/adgame/main/adgame.zip?download=true)
 ***
 ### Screenshots
-![mainmenu](screenshots\mainmenu.png)
+![mainmenu](https://github.com/Fri3m/adgame/blob/main/screenshots/mainmenu.png)
 
-![treemap](screenshots\treemap.png)
+![treemap](https://github.com/Fri3m/adgame/blob/main/screenshots/treemap.png)
 
-![russianmap](screenshots\russianmap.png)
+![russianmap](https://github.com/Fri3m/adgame/blob/main/screenshots/russianmap.png)
 
-![asylumtunnelmap](screenshots\asylumtunnelmap.png)
+![asylumtunnelmap](https://github.com/Fri3m/adgame/blob/main/screenshots/asylumtunnelmap.png)
